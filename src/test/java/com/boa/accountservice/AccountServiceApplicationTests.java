@@ -1,10 +1,10 @@
-package com.skauto.autoservice;
+package com.boa.accountservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AutoServiceApplicationTests {
+class AccountServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
